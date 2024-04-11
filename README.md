@@ -1,7 +1,6 @@
 # Youtube Summarizer
 This project is a YouTube summarizer that accepts user-input YouTube video links and presents the YouTube video summary within 250 words.
 ## Steps
-- Configure the Gemini API key and Store it in a variable in the .env file.
 - Create and activate the environment :
   `condo create -p venv python==3.10 -y`
   `conda activate venv/`
