@@ -11,4 +11,4 @@ This project is a YouTube summarizer that accepts user-input YouTube video links
 - Develop functionalities for the project.
 - Develop the Streamlit app interface to accept YouTube video links and display the generated summary.
 - Run the app:
-  `streamlit run app.py'
+  `streamlit run app.py`
