@@ -1,5 +1,5 @@
 # Youtube Summarizer
-This project is a YouTube summarizer that accepts user-input YouTube video links and presents the YouTube video summary within 250 words. By seamlessly integrating the YouTube Transcript API and harnessing Genie Pro's AI model, I've crafted a tool for distilling key insights from long videos, improving comprehension and accessibility.
+This project is a YouTube summarizer that accepts user-input YouTube video links and presents the YouTube video summary within 250 words. By seamlessly integrating the YouTube Transcript API and harnessing Gemini Pro's AI model, I've crafted a tool for distilling key insights from long videos, improving comprehension and accessibility.
 ## Steps
 - Configure the Gemini API key and store it in a variable in the .env file.
 - Create and activate the environment :
